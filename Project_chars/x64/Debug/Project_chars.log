@@ -1,0 +1,3 @@
+﻿  chars.cpp
+D:\C#\project\Project_chars\chars.cpp(12,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project_chars.vcxproj -> D:\C#\project\Project_chars\x64\Debug\Project_chars.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Horses'party9.28 (2).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Horses'party9.28 (2).cpp
+D:\C#\project\Horses'party9.28 (2)\Horses'party9.28 (2).cpp(25,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C#\project\Horses'party9.28 (2)\Horses'party9.28 (2).cpp(26,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C#\project\Horses'party9.28 (2)\Horses'party9.28 (2).cpp(27,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Horses'party9.28 (2).vcxproj -> D:\C#\project\Horses'party9.28 (2)\x64\Debug\Horses'party9.28 (do-while).exe

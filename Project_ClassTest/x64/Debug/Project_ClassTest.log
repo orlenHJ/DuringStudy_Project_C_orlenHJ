@@ -1,0 +1,6 @@
+﻿  proj.cpp
+D:\C#\project\Project_ClassTest\proj.cpp(53,41): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\C#\project\Project_ClassTest\proj.cpp(44,8): warning C4101: “T_hi”: 未引用的局部变量
+D:\C#\project\Project_ClassTest\proj.cpp(67,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\C#\project\Project_ClassTest\proj.cpp(69,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project_ClassTest.vcxproj -> D:\C#\project\Project_ClassTest\x64\Debug\Project_ClassTest.exe

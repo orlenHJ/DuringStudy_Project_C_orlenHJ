@@ -1,0 +1,5 @@
+﻿  Horses'party(for).cpp
+D:\C#\project\Horses'party9.28 (3)\Horses'party(for).cpp(23,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C#\project\Horses'party9.28 (3)\Horses'party(for).cpp(24,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C#\project\Horses'party9.28 (3)\Horses'party(for).cpp(25,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Horses'party9.28 (3).vcxproj -> D:\C#\project\Horses'party9.28 (3)\x64\Debug\Horses'party9.28 (3).exe

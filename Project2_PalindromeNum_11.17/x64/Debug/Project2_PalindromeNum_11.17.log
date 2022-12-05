@@ -1,0 +1,4 @@
+﻿  prj.cpp
+D:\C#\project\Project2_PalindromeNum_11.17\prj.cpp(10,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C#\project\Project2_PalindromeNum_11.17\prj.cpp(45,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project2_PalindromeNum_11.17.vcxproj -> D:\C#\project\Project2_PalindromeNum_11.17\x64\Debug\Project2_PalindromeNum_11.17.exe

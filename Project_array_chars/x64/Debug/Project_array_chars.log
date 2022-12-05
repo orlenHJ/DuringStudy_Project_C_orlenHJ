@@ -1,0 +1,4 @@
+﻿  array.cpp
+D:\C#\project\Project_array_chars\array.cpp(51,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\C#\project\Project_array_chars\array.cpp(54,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project_array_chars.vcxproj -> D:\C#\project\Project_array_chars\x64\Debug\Project_array_chars.exe

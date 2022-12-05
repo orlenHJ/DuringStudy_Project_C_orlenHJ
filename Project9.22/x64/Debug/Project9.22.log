@@ -1,0 +1,3 @@
+﻿  9.22.cpp
+D:\C#\project\Project9.22\9.22.cpp(9,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project9.22.vcxproj -> D:\C#\project\Project9.22\x64\Debug\Project9.22.exe

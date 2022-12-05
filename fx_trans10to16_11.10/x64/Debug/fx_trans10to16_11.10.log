@@ -1,0 +1,5 @@
+﻿  trans10216.cpp
+D:\C#\project\fx_trans10to16_11.10\trans10216.cpp(41,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C#\project\fx_trans10to16_11.10\trans10216.cpp(56,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C#\project\fx_trans10to16_11.10\trans10216.cpp(65,9): warning C4101: “j”: 未引用的局部变量
+  fx_trans10to16_11.10.vcxproj -> D:\C#\project\fx_trans10to16_11.10\x64\Debug\fx_trans10to16_11.10.exe

@@ -1,0 +1,5 @@
+﻿  Calcu.cpp
+D:\C#\project\Project_NewTonCalcu\Calcu.cpp(6,55): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\C#\project\Project_NewTonCalcu\Calcu.cpp(10,42): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\C#\project\Project_NewTonCalcu\Calcu.cpp(14,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project_NewTonCalcu.vcxproj -> D:\C#\project\Project_NewTonCalcu\x64\Debug\Project_NewTonCalcu.exe

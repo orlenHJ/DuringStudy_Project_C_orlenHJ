@@ -1,0 +1,3 @@
+﻿  IP.cpp
+D:\C#\project\Project_IP_32to10\IP.cpp(32,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project_IP_32to10.vcxproj -> D:\C#\project\Project_IP_32to10\x64\Debug\Project_IP_32to10.exe

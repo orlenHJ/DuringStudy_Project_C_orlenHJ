@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(First C Program.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  lab2.cpp
+D:\C#\project\First C Program\lab2.cpp(14,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C#\project\First C Program\lab2.cpp(15,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  First C Program.vcxproj -> D:\C#\project\First C Program\x64\Debug\C-lab-project2.exe
